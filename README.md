@@ -13,3 +13,18 @@
 1. Sherlock(Sherlock_Fsociety_Robot) - есть возможность поиска по тик току, инстаграму, телеграмму и ВКонтакте.
 2. UserBox(@Userboxokbot) - имеет функции поиска по никам, номерам, и почте.
 3. Dyxless(DyxlessSearchRobot) - Очень большая база, функционал схожий с Глазом Бога, информация обширнее.
+4. LeakOsint(@LeaekEyeBBot) - Огромная база данных, 7 дней подписки бесплатно.
+5. Himera Search(@HimeraLeakbot) - большая база ФИО, VIN, Tel, о компании или человека по ИНН. Так же есть приватные источники и базы данных.
+6. Gta Search(@GtaSearchOsntBot) - tel, ФИО, email, Telegram, pass, username, Vk, Facebook, авто, IP и фото.
+7. Info Lab(@infoOsintlabBot) - Поиск по фото, ФИО, контактам, документам, авто, адресу, соцсетям и вебкам/эскорт.
+8. OpenDataUA(@OpenDataUABot) - сервис поиска в государственных данных компаний, авто и недвижимости.
+9. Штрафы и налогм(@ShtrafKZBot) - Проверка ЮЛ и ФЛ лиц по Казахстану.
+10. getairplane(@getairplane_bot) - бесплатно показывает информацию о перелётах за последние 20 лет по номеру телефона.
+11. Truecaller(@True_callerzbot) - показывает под каким именем сохранён в контактах.
+
+    Другие
+1. CheckID(@CheckID_AIDbot) - быстрый поиск ID по username.
+2. gloria(@gloria_raids_bot) - рейд/накрутка
+3. VirusTotal(@SE_VirusTotal_bot) - проверка на вирусы.
+
+Весь материал был взят с личного архива, tg автора: @Osint_Mikhail или @qvaak
